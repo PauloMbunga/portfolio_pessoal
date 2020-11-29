@@ -5,7 +5,7 @@ export default function Header() {
       <div>
 <header id="main-header" >
         <div className="content">
-        <h3>Paulo Mbunga</h3>
+        <h3><span className="verde">Pau</span><span className="azul">lo Mbu</span><span>nga</span></h3>
       <nav>
       <ul>
                         <li><a href="/">Home</a></li>

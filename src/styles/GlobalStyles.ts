@@ -26,9 +26,19 @@ header#main-header{
  box-shadow: 0 1px 1px rgba(30, 130, 79, 0.1)
 }
 
-header#main-header h3{
+header#main-header .azul{
  
   color: #0070f3;
+}
+
+header#main-header .verde{
+ 
+ color: #04d361;
+}
+
+header#main-header .preto{
+ 
+ color: #000;
 }
 
 header#main-header .content{
