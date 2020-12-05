@@ -31,8 +31,8 @@ some experience in iSeries/AS400
 environments,currently learning and
 developing in ReactJs and ReactNative, some
 knowledge in Computer Networks, Routing ,
-Switching and Voip.</p>
-
+Switching and Voip. </p>
+ 
       </section>
     
      
