@@ -19,8 +19,8 @@ export default function ABOUT() {
       </section>
 
       <section className="right" >
-     
-<p><h2>I'm Paulo Mbunga</h2></p>
+    
+<p><h2><span className="verde">I'm Paulo Mbunga</span></h2></p>
 <br></br>
 <p>I am a Software Developer with extensive
 knowledge in Java development with
@@ -35,10 +35,10 @@ Switching and Voip.</p>
 
       </section>
     
-       
+     
 
       </div>
-    
+     
     </div>
   )
 }

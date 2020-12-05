@@ -23,6 +23,7 @@ export default function Home() {
         alt="Paulo"
         width={400}
         height={400}
+      
       />
   
       </section>
@@ -30,6 +31,9 @@ export default function Home() {
        
 
       </div>
+      <div className="footer">
+    
+    </div>
     
     </div>
   )

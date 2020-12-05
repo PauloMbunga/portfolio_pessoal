@@ -8,8 +8,8 @@ export default createGlobalStyle`
 
 body{
 
-    background:#FFF;
-    color:#000;
+    background:#000;
+    color:#fff;
     font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
 }
@@ -23,12 +23,19 @@ body{
 header#main-header{
  
  height:46px;
- box-shadow: 0 1px 1px rgba(30, 130, 79, 0.1)
+ box-shadow: 0 1px 1px rgba(30, 130, 79, 0.4)
 }
 
 header#main-header .azul{
- 
   color: #0070f3;
+}
+
+.verde{
+  color: #04d361;
+}
+
+.branco{
+  color: #fff;
 }
 
 header#main-header .verde{
@@ -51,7 +58,7 @@ header#main-header .content{
 
 a{
   text-decoration: none;
-   color:#000
+   color:#fff
 }
 
 a:hover{
@@ -67,7 +74,7 @@ header#main-header nav ul li{
  display:flex;
  align-items:center;
  font-size:18px;
- color:#000;
+ color:#fff;
  font-weight:bold;
  margin-left:50px;
 }
@@ -123,12 +130,18 @@ div.wrapper-content section.right{
 
 .img_about{
     
-    border-radius: 10% ;
+    border-radius: 20% ;
 }
 
 
-ut
+div.footer{
+margin-top:100px;
+display:flex;
+align-items:center;
+justify-content:space-between;
+background-color:#04d361
 
+}
 
 
 
