@@ -11,7 +11,7 @@ export default function ABOUT() {
       <section className="left" >
 
       <Image className="img_about"
-        src="/assets/paulombunga.jpg"
+        src="/assets/pauloverde.png"
         alt="Paulo"
         width={400}
         height={400}

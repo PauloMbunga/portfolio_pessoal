@@ -19,7 +19,7 @@ export default function Home() {
 
       <section className="right" >
             <Image className="img"
-        src="/assets/paulombunga.jpg"
+        src="/assets/pauloverde.png"
         alt="Paulo"
         width={400}
         height={400}
