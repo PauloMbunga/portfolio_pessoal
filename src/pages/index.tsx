@@ -1,5 +1,6 @@
 
 import Header from '../pages/_header';
+import Footer from '../pages/_footer';
 import Image from 'next/image'
 
 export default function Home() {
@@ -31,6 +32,8 @@ export default function Home() {
        
 
       </div>
+
+      <Footer/>
      
     
     </div>

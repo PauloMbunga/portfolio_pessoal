@@ -1,3 +1,4 @@
+import Footer from '../pages/_footer';
 import Header from '../pages/_header';
 import Image from 'next/image'
 
@@ -38,6 +39,8 @@ Switching and Voip. </p>
      
 
       </div>
+
+      <Footer/>
      
     </div>
   )

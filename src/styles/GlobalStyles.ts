@@ -134,13 +134,22 @@ div.wrapper-content section.right{
 }
 
 
+footer.footer nav ul li{
+ display:flex;
+ margin-left:10px;
+}
+
+
+footer.footer nav ul{
+ display:flex;
+ list-style:none;
+}
+
+
 div.footer{
-margin-top:100px;
 display:flex;
 align-items:center;
 justify-content:space-between;
-background-color:#04d361
-
 }
 
 
